@@ -13,3 +13,11 @@ npm install
 
 
 npm run dev
+
+
+
+
+Test on Rinkeby:
+Switch metmask to account
+make sure there is ether in account
+test buying
